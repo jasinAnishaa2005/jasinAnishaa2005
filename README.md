@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/anisha-github-animated-banner.gif" alt="Anisha — curious builder and software engineering student" width="100%" />
+<img src="assets/anisha-profile-banner-v2.svg" alt="Anisha — curious builder and software engineering student" width="100%" />
 
 # Hi, I'm Anisha! 👋
 
@@ -83,7 +83,7 @@
 
 <div align="center">
 
-![Contribution Snake](https://raw.githubusercontent.com/jasinAnishaa2005/jasinAnishaa2005/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/jasinAnishaa2005/jasinAnishaa2005/output/github-contribution-grid-snake-dark.svg)
 
 *Little steps, every day — keep the streak growing!* 🤎
 
