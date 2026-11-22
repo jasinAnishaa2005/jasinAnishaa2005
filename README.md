@@ -43,13 +43,28 @@
 
 ## 🚀 Featured projects
 
-| Project | Description |
-|---|---|
-| [Aurevia AI](https://github.com/jasinAnishaa2005/aurevia-ai) | An AI-powered career assistant for CV analysis, job discovery, and career planning. |
-| [RoyalEscape](https://github.com/jasinAnishaa2005/RoyalEscape) | A game development project. |
-| [CodeCraft Kids Adventure](https://github.com/jasinAnishaa2005/CodeCraft-Kids-Adventure) | A terminal-based game that introduces programming concepts through play. |
+<div align="center">
 
-*Explore my repositories for more experiments and coursework.*
+<a href="https://github.com/jasinAnishaa2005/aurevia-ai">
+  <img src="https://raw.githubusercontent.com/jasinAnishaa2005/aurevia-ai/main/assets/project-preview.svg" width="48%" alt="Aurevia AI project preview" />
+</a>
+<a href="https://github.com/jasinAnishaa2005/devpilot-ai">
+  <img src="https://raw.githubusercontent.com/jasinAnishaa2005/devpilot-ai/main/docs/project-preview.svg" width="48%" alt="DevPilot AI project preview" />
+</a>
+<a href="https://github.com/jasinAnishaa2005/RoyalEscape">
+  <img src="https://raw.githubusercontent.com/jasinAnishaa2005/RoyalEscape/main/assets/project-preview.svg" width="48%" alt="Royal Escape project preview" />
+</a>
+<a href="https://github.com/jasinAnishaa2005/CodeCraft-Kids-Adventure">
+  <img src="https://raw.githubusercontent.com/jasinAnishaa2005/CodeCraft-Kids-Adventure/main/assets/project-preview.svg" width="48%" alt="CodeCraft Kids project preview" />
+</a>
+
+</div>
+
+<div align="center">
+
+*Four little worlds, built with curiosity and code.* 🤎
+
+</div>
 
 ## 📊 GitHub at a glance
 
