@@ -6,10 +6,10 @@
 
 ### Software Engineering student · Curious builder · Lifelong learner
 
-*I love turning ideas into working projects, solving problems, and exploring how technology can make a difference.*
+*I turn ideas into projects, enjoy solving problems, and love exploring how technology can make a difference.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-jasinAnishaa2005-5b3828?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jasinAnishaa2005)
-[![IUT](https://img.shields.io/badge/Studying-Software%20Engineering-f1e5d5?style=for-the-badge&logo=google-scholar&logoColor=5b3828)](https://www.iutoic-dhaka.edu/)
+[![GitHub](https://img.shields.io/badge/GitHub-jasinAnishaa2005-5b3828?style=flat-square&logo=github&logoColor=white)](https://github.com/jasinAnishaa2005)
+[![IUT](https://img.shields.io/badge/Software%20Engineering-IUT-8b6048?style=flat-square)](https://www.iutoic-dhaka.edu/)
 
 </div>
 
@@ -24,49 +24,33 @@
 - 🤖 Curious about **robotics, space technology, and research**.
 - 🌱 Always learning, experimenting, and improving one project at a time.
 
-## 🛠️ Technologies
+## 🧰 Tech I work with
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C++-5b3828?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C Sharp](https://img.shields.io/badge/C%23-795548?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-8d6e63?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-c9a27e?style=for-the-badge&logo=python&logoColor=2d211b)
-![JavaScript](https://img.shields.io/badge/JavaScript-f1e5d5?style=for-the-badge&logo=javascript&logoColor=5b3828)
-![React](https://img.shields.io/badge/React-5b3828?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-795548?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-c9a27e?style=for-the-badge&logo=fastapi&logoColor=2d211b)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-f1e5d5?style=for-the-badge&logo=postgresql&logoColor=5b3828)
-![Git](https://img.shields.io/badge/Git-5b3828?style=for-the-badge&logo=git&logoColor=white)
+![C++](https://img.shields.io/badge/C++-5b3828?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-795548?style=flat-square&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-8d6e63?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-c9a27e?style=flat-square&logo=python&logoColor=2d211b)
+![JavaScript](https://img.shields.io/badge/JavaScript-f1e5d5?style=flat-square&logo=javascript&logoColor=5b3828)
+![React](https://img.shields.io/badge/React-5b3828?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-795548?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-c9a27e?style=flat-square&logo=fastapi&logoColor=2d211b)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-f1e5d5?style=flat-square&logo=postgresql&logoColor=5b3828)
+![Git](https://img.shields.io/badge/Git-5b3828?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
-## 🚀 Featured projects
+## ✨ Selected projects
 
-<div align="center">
+| Project | What it is |
+|---|---|
+| [**Aurevia AI**](https://github.com/jasinAnishaa2005/aurevia-ai) | AI-powered career assistant for CV insights, job discovery, and career planning |
+| [**DevPilot AI**](https://github.com/jasinAnishaa2005/devpilot-ai) | AI-assisted developer onboarding and codebase exploration |
+| [**Royal Escape**](https://github.com/jasinAnishaa2005/RoyalEscape) | C++ and SFML game development project |
+| [**CodeCraft Kids**](https://github.com/jasinAnishaa2005/CodeCraft-Kids-Adventure) | Offline terminal adventure that introduces programming logic |
 
-<a href="https://github.com/jasinAnishaa2005/aurevia-ai">
-  <img src="https://raw.githubusercontent.com/jasinAnishaa2005/aurevia-ai/main/assets/project-preview.svg" width="48%" alt="Aurevia AI project preview" />
-</a>
-<a href="https://github.com/jasinAnishaa2005/devpilot-ai">
-  <img src="https://raw.githubusercontent.com/jasinAnishaa2005/devpilot-ai/main/docs/project-preview.svg" width="48%" alt="DevPilot AI project preview" />
-</a>
-<a href="https://github.com/jasinAnishaa2005/RoyalEscape">
-  <img src="https://raw.githubusercontent.com/jasinAnishaa2005/RoyalEscape/main/assets/project-preview.svg" width="48%" alt="Royal Escape project preview" />
-</a>
-<a href="https://github.com/jasinAnishaa2005/CodeCraft-Kids-Adventure">
-  <img src="https://raw.githubusercontent.com/jasinAnishaa2005/CodeCraft-Kids-Adventure/main/assets/project-preview.svg" width="48%" alt="CodeCraft Kids project preview" />
-</a>
-
-</div>
-
-<div align="center">
-
-*Four little worlds, built with curiosity and code.* 🤎
-
-</div>
-
-## 📊 GitHub at a glance
+## 📊 GitHub activity
 
 <div align="center">
 
@@ -79,28 +63,19 @@
 
 </div>
 
-## 🐍 Contribution garden
-
-<div align="center">
-
-![Contribution Snake](https://raw.githubusercontent.com/jasinAnishaa2005/jasinAnishaa2005/output/github-contribution-grid-snake-dark.svg)
-
-*Little steps, every day — keep the streak growing!* 🤎
-
-</div>
-
 ## 🌷 What I'm working towards
 
 - Becoming a stronger problem solver and software engineer.
-- Building projects that are useful beyond the classroom.
+- Building useful projects beyond the classroom.
 - Exploring AI/ML, robotics, and game development more deeply.
-- Collaborating with other developers and contributing to meaningful work.
+- Collaborating with developers and contributing to meaningful work.
 
 ---
 
 <div align="center">
 
-**Thanks for stopping by!**  
+**Thanks for stopping by!**
+
 *Keep learning. Keep building. Stay curious.* 🤎
 
 </div>
