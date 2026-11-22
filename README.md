@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/anisha-profile-banner-v2.svg" alt="Anisha — curious builder and software engineering student" width="100%" />
+<img src="assets/anisha-profile-banner-animated.svg" alt="Anisha — curious builder and software engineering student" width="100%" />
 
 # Hi, I'm Anisha! 👋
 
@@ -60,6 +60,16 @@
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=jasinAnishaa2005&hide_border=true&background=FFFAF4&ring=9B6B4B&fire=9B6B4B&currStreakLabel=5B3828&sideLabels=795548&dates=795548" alt="GitHub contribution streak" />
+
+</div>
+
+## 🐍 Contribution garden
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/jasinAnishaa2005/jasinAnishaa2005/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" width="100%" />
+
+*Little steps, every day — keep the streak growing!* 🤎
 
 </div>
 
