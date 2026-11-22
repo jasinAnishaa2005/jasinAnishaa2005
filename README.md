@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/anisha-profile-banner-v2.svg" alt="Anisha — curious builder and software engineering student" width="100%" />
+<img src="assets/anisha-github-animated-banner.gif" alt="Anisha — curious builder and software engineering student" width="100%" />
 
 # Hi, I'm Anisha! 👋
 
