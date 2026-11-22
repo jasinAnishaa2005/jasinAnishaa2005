@@ -64,6 +64,16 @@
 
 </div>
 
+## 🐍 Contribution garden
+
+<div align="center">
+
+![Contribution Snake](https://raw.githubusercontent.com/jasinAnishaa2005/jasinAnishaa2005/output/github-contribution-grid-snake.svg)
+
+*Little steps, every day — keep the streak growing!* 🤎
+
+</div>
+
 ## 🌷 What I'm working towards
 
 - Becoming a stronger problem solver and software engineer.
